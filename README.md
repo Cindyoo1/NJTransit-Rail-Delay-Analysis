@@ -1,4 +1,6 @@
 # NJTransit-Rail-Delay-Analysis
+
+WIP
  
 NJTransit is not operationally profitable, the government agency's cash flow is made up primarily by state funds, federal grants and fare revenue. In June 2024 NJT increased fares by 15%, with plans to increase it by 3% anually after. It is projected that in 2026 there will be a budget gap of $1 billion.
 
